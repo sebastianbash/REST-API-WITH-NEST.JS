@@ -25,7 +25,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd backen1
+  cd REST-API-WITH-NEST.JS
 ```
 
 Install dependencies
